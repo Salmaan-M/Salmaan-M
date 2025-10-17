@@ -17,9 +17,9 @@ Computer Engineering Student
 
 
 
-([![GitHub Streak](https://streak-stats.demolab.com?user=Salmaan-M&theme=dark)](https://git.io/streak-stats))
+[![GitHub Streak](https://streak-stats.demolab.com?user=Salmaan-M&theme=dark)](https://git.io/streak-stats)
 
-([![Salmaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salmaan-M)](https://github.com/anuraghazra/github-readme-stats))
+[![Salmaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salmaan-M)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Salmaan-M?theme=dark&font=Roboto%20Mono)](https://leetcode.com/Salmaan-M)
 
