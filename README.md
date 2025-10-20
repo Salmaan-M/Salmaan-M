@@ -4,7 +4,7 @@ Computer Engineering Student
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://salmaanm.netlify.app/)
                                                  
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DSA and into automated workflows using n8n 
 - 📫 How to reach me :
 <br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/salmaan-m-015667249/) [<img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/itz.salmaan_)
 
@@ -18,6 +18,7 @@ Computer Engineering Student
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Salmaan-M&theme=dark)](https://git.io/streak-stats)
+
 [![Salmaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salmaan-M)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Salmaan-M?theme=dark&font=Roboto%20Mono)](https://leetcode.com/Salmaan-M)
