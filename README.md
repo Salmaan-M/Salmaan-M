@@ -21,6 +21,5 @@ Computer Engineering Student
 
 [![Salmaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salmaan-M)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Salmaan-M?theme=dark&font=Roboto%20Mono)](https://leetcode.com/Salmaan-M)
 
 [![Salmaan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Salmaan-M&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
