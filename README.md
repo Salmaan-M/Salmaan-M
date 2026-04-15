@@ -1,42 +1,66 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="300" />
-  <h1>Hi, I'm Salmaan 👋</h1>
-  <p><b>Computer Engineering Student | Full Stack Developer | DSA Learner</b></p>
+  <!-- Right-aligned GIF from your original code -->
+  <img align="right" width="370" height="290" src="https://pinimg.com">
+  
+  <h1 align="left">Hi there 👋 It's me Salmaan</h1>
+  <p align="left"><b>Computer Engineering Student</b></p>
 
-  <a href="https://salmaanm.netlify.app/"><b>🌐 Portfolio</b></a> • 
-  <a href="https://x.com/Salmaan_dev"><b>🐦 Twitter/X</b></a> • 
-  <a href="https://www.linkedin.com/in/salmaan-m-015667249/"><b>🔗 LinkedIn</b></a>
+  <p align="left">
+    🔭 Here's my <a href="https://salmaanm.netlify.app/"><b>portfolio</b></a> 👈 <br>
+    🌱 I’m currently learning DSA, building projects and posting on X <a href="https://x.com"><b>Check out</b></a> 👈
+  </p>
+
+  <p align="left">
+    📫 <b>How to reach me:</b> <br />
+    <a href="https://linkedin.com">
+      <img src="https://shields.io" />
+    </a> 
+    <a href="https://instagram.com_">
+      <img src="https://shields.io" />
+    </a>
+  </p>
 </div>
 
----
+<br clear="both">
 
-### 🔭 About Me
-- 🌱 Currently mastering **Data Structures & Algorithms**.
-- 🛠️ Building full-stack projects with the **MERN** stack and **Spring Boot**.
-- ✍️ Sharing my coding journey and daily builds on **X**.
-- 📫 Reach me on Instagram: [@itz.salmaan_](https://instagram.com/itz.salmaan_)
-
-### 🛠️ Tech Stack & Tools
+### I code in
 <p align="left">
-  <!-- Languages -->
-  <img src="https://skillicons.dev" />
+  <img height="50" width="50" src="https://icons8.com" />
+  <img height="50" width="50" src="https://icons8.com" />
+  <img height="50" width="50" src="https://icons8.com" />
+  <img height="50" width="50" src="https://icons8.com" />
+  <img height="50" width="50" src="https://icons8.com" />
+  <img height="50" width="50" src="https://icons8.com""")/>>
+  <img height="50" width="50" src="https://icons8.com""")/>>
+  <img height="50" width="50" src="https://icons8.com""")/>>
+  <img height="50" width="50" src="https://icons8.com""")/>>
+  <img height="50" width="50" src="https://icons8.com""")/>>
+  <img height="50" width="50" src="https://icons8.com""")/>>
 </p>
 
+### IDE and Tools I Use
 <p align="left">
-  <!-- Tools -->
-  <img src="https://skillicons.dev" />
+  <img height="50" width="50" src="https://icons8.com""")/>>
+  <img height="50" width="50" src="https://icons8.com""")/>>
+  <img height="50" src="https://icons8.com""")/>>
 </p>
 
 ---
 
 ### 📊 My GitHub Stats
-<div align="center">
-  <img height="180em" src="https://vercel.app" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=Salmaan-M&theme=dark" />
-</div>
+<p align="center">
+  <a href="https://github.com">
+    <img height="180em" src="https://vercel.app" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img height="180em" src="https://demolab.com" />
+  </a>
+</p>
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://vercel.app" />
+  <a href="https://github.com">
+    <img width="100%" src="https://vercel.app" />
+  </a>
 </div>
