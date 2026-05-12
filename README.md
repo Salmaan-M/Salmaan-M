@@ -9,7 +9,7 @@
 
 - 👯 I'm looking to collaborate on open source projects
 
-- 📫 How to reach me salmaansalmaan114@gmail.com
+- 📫 How to reach me salmaansalmaan114@gmail.com 📧
 
 - 👨‍💻 Porfolio available at [[click me 👈](https://salmaanm.netlify.app)] 
 
