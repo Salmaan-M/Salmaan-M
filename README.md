@@ -1,11 +1,11 @@
 # Hi 👋, I'm Salmaan M
 
-### A passionate developer
+### A passionate developer and open source contributer
 
 
 - 🔭 I'm currently working on **open-source and problem solving**
 
-- 🌱 I'm currently learning **DSA** 
+- 🌱 I'm currently learning **DSA** and **cloud-native solutions**
 
 - 👯 I'm looking to collaborate on open source projects
 
