@@ -11,7 +11,9 @@
 
 - 📫 How to reach me salmaansalmaan114@gmail.com 📧
 
-- 👨‍💻 Porfolio available at [[click me 👈](https://salmaanm.netlify.app)] 
+- 👨‍💻 Porfolio available at [[click me 👈](https://salmaanm.netlify.app)]
+<div><a href="https://cloud.layer5.io/user/9de5afba-b9d0-458d-90c3-20e52297b2bc?tab=badges&badge=certified-meshery-contributor" alt="Certified Meshery Contributor" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
 
 <h3>Connect with me:</h3>
 
