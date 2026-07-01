@@ -80,7 +80,7 @@
 </table>
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Salmaan-M&theme=violet-punch&hide_border=true&border_radius=3.2" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Salmaan-M&timezone=Asia/Kolkata)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 
