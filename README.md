@@ -80,11 +80,7 @@
 </table>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Salmaan-M&show_icons=true&locale=en&layout=compact" alt="Salmaan-M" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Salmaan-M&show_icons=true&locale=en" alt="Salmaan-M" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Salmaan-M&" alt="Salmaan-M" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Salmaan-M&theme=violet-punch&hide_border=true&border_radius=3.2" alt="GitHub Streak" /></a>
 
 
 
